@@ -6,4 +6,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i like cats
 
-> kahoot-god/kahoot-god is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> kahoot-god/kahoot-god is a ✨ special ✨ repository because its README appears on your GitHub profile.
