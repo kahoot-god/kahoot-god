@@ -5,5 +5,4 @@
 - 📫 How to reach me kahootgod_ on Discord
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i like cats
-
-> kahoot-god/kahoot-god is a ✨ special ✨ repository because its README appears on your GitHub profile.
+- 👍 Kahoot God to ksywka i zajmuję się też innymi cheatami.
